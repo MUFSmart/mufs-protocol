@@ -9,7 +9,7 @@
 
 ## What is MUFS?
 
-**MUFS** (**M**anchester **U**nited **F**aith **S**mart Token) is the first token that measures and immortalizes the **emotional energy of fans** as digital value in the blockchain.
+**MUFS** (Mancunian United Faith Smart) is the first token that measures and immortalizes the **emotional energy of fans** as digital value in the blockchain.
 
 It is based on a mathematical model where:
 - Fan presence at the stadium generates **digital energy**.
@@ -151,3 +151,4 @@ All trademarks belong to their respective owners.
 
 > Created by **MUFSmart** — 2025  
 > For the fans. By the fans. In memory of all who believed.
+
