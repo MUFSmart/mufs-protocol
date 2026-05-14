@@ -1,353 +1,109 @@
-# MUFS Whitepaper
+# MUFS Overview
 
-## Мathematical United Faith Smart Token
+## What is MUFS
 
-### Digital Energy of Football Success
+MUFS is a symbolic digital history framework built around Manchester United and its supporters.
 
-**Version:** 1.1  
-**Date:** March 2026  
-**Network:** Solana Mainnet  
-**Token Address:** `885tU3ZarmA4egjjQq3xw6JiUd5vzX1GJ9H5Uuhbdc95`
+The project exists to preserve the historical journey of the club through official football matches, supporter presence, tournament progression and long-term football legacy.
 
----
-
-## ⚠️ Disclaimer
-
-This project is **NOT officially affiliated** with Manchester United FC, Manchester United Limited, or any of its subsidiaries. This is a fan-made project for educational and community purposes only.
-
-All trademarks, logos, and brand names are the property of their respective owners. Use of these names, trademarks, and brands does not imply endorsement.
+MUFS combines football philosophy, historical interpretation and blockchain infrastructure into one connected ecosystem.
 
 ---
 
-## 1. Executive Summary
+# Why MUFS Exists
 
-MUFS (Manchester United Fan Smart Token) is a tokenized digital history of Manchester United Football Club, spanning 145+ years of heritage (1878-2026).
+Football history is usually remembered through trophies, statistics and legendary moments.
 
-Our mission is to create a transparent, community-driven ecosystem where fan energy is mathematically proven and rewarded through blockchain technology.
+But football clubs are also built by generations of supporters who lived every season beside the team.
 
-### Key Features
-- 130+ years of historical match data
-- Transparent tokenomics with community-first distribution
-- Annual emission based on team performance
-- Decentralized governance for community decisions
+Every match.
+Every away game.
+Every difficult period.
+Every moment of belief.
 
----
+MUFS exists to preserve that shared journey digitally.
 
-## 2. Project Philosophy
+Not as speculation.
 
-### 2.1 Why MUFS Exists
-
-Football is more than 90 minutes on a pitch. It's the energy of fans in the stadium, the songs that echo through generations, and the emotional investment that never fades.
-
-MUFS captures this energy in a token — not as speculation, but as **proof of history**.
-
-### 2.2 Core Values
-
-| Value | Description |
-|-------|-------------|
-| Transparency | All calculations public on GitHub |
-| Community | 30% of supply dedicated to fans |
-| History | 130+ years of data verifiable |
-| Sustainability | Low emission rate (0.8-3% annually) |
-| Fairness | Vesting schedules prevent dumping |
+But as a symbolic reflection of football history carried through generations.
 
 ---
 
-## 3. Token Information
+# Proof of Support
 
-### 3.1 Basic Details
+The philosophical foundation behind MUFS is called Proof of Support.
 
-| Property | Value |
-|----------|-------|
-| Token Name | MUFS |
-| Network | Solana Mainnet |
-| Token Address | `885tU3ZarmA4egjjQq3xw6JiUd5vzX1GJ9H5Uuhbdc95` |
-| Standard | SPL Token |
-| Decimals | 9 |
-| Total Supply | 106,713,681 MUFS |
+It is built around one central belief:
 
-### 3.2 Verification Links
+Football clubs and supporters exist as one living organism within football culture.
 
-- **Solscan**: https://solscan.io/token/885tU3ZarmA4egjjQq3xw6JiUd5vzX1GJ9H5Uuhbdc95
-- **GitHub**: https://github.com/MUFSmart/mufs-protocol
-- **Website**: https://mufs-smart-token.lovable.app
-- **Twitter**: https://x.com/MUFSmart
-- **Telegram**: https://t.me/MUFSmart
+The greatness of football history is created both by the achievements of the team and by the generations of supporters who carried the club through time.
+
+Proof of Support symbolically reflects that connection.
 
 ---
 
-## 4. Tokenomics
+# Historical Framework
 
-### 4.1 Initial Supply
+MUFS uses a symbolic historical framework connected to:
 
-| Metric | Value |
-|--------|-------|
-| Total Supply | 106,713,681 MUFS |
-| Network | Solana Mainnet |
-| Token Standard | SPL Token |
-| Decimals | 9 |
+- official football matches;
+- supporter attendance;
+- tournament structures;
+- match outcomes;
+- and seasonal progression.
 
-### 4.2 Initial Distribution
+The framework interprets football success not only through trophies, but through the complete historical path experienced by both the team and its supporters.
 
-| Category | Percentage | Tokens | Vesting Schedule |
-|----------|------------|--------|------------------|
-| Fans & Organizations | 30% | 32,014,104 | 50% at TGE, 50% over 6 months |
-| Exchange/CEX Listing | 15% | 16,007,052 | Locked until listing |
-| Liquidity Pool (DEX) | 17% | 18,141,316 | Locked 12 months |
-| Team | 10% | 10,671,368 | 12 month cliff, 24 month vesting |
-| Community Treasury | 10% | 10,671,368 | Community governance |
-| Project Fund | 5% | 5,335,684 | 36 month vesting |
-| Charity | 3% | 3,201,410 | Distributed annually |
-| Reserve | 10% | 10,671,316 | Contingency & future use |
-| **TOTAL** | **100%** | **106,713,681** | - |
+The calculations are not presented as scientific proof or financial prediction models.
 
-### 4.3 Distribution Breakdown
-
-#### Fans & Organizations (30%)
-- Direct airdrops to early supporters
-- Fan organization partnerships
-- Community rewards and contests
-- 50% at TGE, 50% over 6 months vesting
-
-#### Exchange/CEX Listing (15%)
-- Reserved for centralized exchange listings
-- Locked until listing agreements
-- Market making support
-
-#### Liquidity Pool (17%)
-- DEX listing (Raydium, Orca)
-- Locked for 12 months
-- Ensures price stability
-
-#### Team (10%)
-- Development and operations
-- 12 month cliff, 24 month vesting
-- Aligned with long-term success
-
-#### Community Treasury (10%)
-- Community-governed funds
-- Fan initiatives and events
-- Decided through governance votes
-
-#### Project Fund (5%)
-- Partnerships and marketing
-- 36 month vesting
-- Sustainable growth
-
-#### Charity (3%)
-- Annual charitable distributions
-- Local Manchester community support
-- Football-related causes
-
-#### Reserve (10%)
-- Contingency and unexpected needs
-- Future opportunities
-- Protected for project longevity
-
-### 4.4 Annual Emission Policy
-
-To sustain community growth and reward long-term holders, new tokens are emitted annually based on team performance and fan engagement.
-
-| Period | Emission Rate | Calculation Basis |
-|--------|---------------|-------------------|
-| Years 1-3 | 0.8% - 3% | Team success + Match attendance |
-| Years 4+ | Decreasing | Natural maturity |
-
-### 4.5 Annual Mining Distribution
-
-| Category | Percentage | Purpose |
-|----------|------------|---------|
-| Fans & Organizations | 70% | Community rewards & airdrops |
-| Community Treasury | 14% | Club initiatives |
-| Team | 7% | Development & operations |
-| Project Fund | 6% | Partnerships & marketing |
-| Charity | 3% | Charitable causes |
-
-### 4.6 Vesting Schedule Summary
-
-| Category | Vesting Period | Cliff |
-|----------|---------------|-------|
-| Fans & Organizations | 6 months | 50% at TGE |
-| Team | 24 months | 12 months |
-| Project Fund | 36 months | None |
-| Liquidity Pool | 12 months | Locked |
-| Exchange Listing | Until listing | Locked |
+They exist as a conceptual methodology for preserving football history digitally.
 
 ---
 
-## 5. MUFS Standard
+# The Role of MUFS
 
-### 5.1 Calculation Methodology
+Each MUFS token symbolically represents part of the historical continuity of Manchester United across generations.
 
-MUFS token value is derived from a transparent mathematical formula based on:
+The project aims to create a long-term digital archive connected to:
 
-- Match results (win/draw/loss)
-- Match attendance (home + away)
-- Tournament importance (League, Cup, European)
-- Historical significance (derbies, finals, records)
+- football history;
+- supporter culture;
+- club achievement;
+- and the emotional continuity between generations of supporters.
 
-Full calculation methodology available at:
-https://github.com/MUFSSmart/technology/blob/main/Calculations.md
-
-### 5.2 Data Sources
-
-All historical data is sourced from:
-- Official Premier League records
-- Manchester United historical archives
-- Public football databases (1889-2026)
+MUFS is designed as a supporter-centered ecosystem rather than a speculative token narrative.
 
 ---
 
-## 6. Roadmap
+# Long-Term Vision
 
-### 6.1 Phase 1: Foundation (Q2 2026)
+The long-term vision of MUFS is to expand the digital preservation of football history through:
 
-| Milestone | Status |
-|-----------|--------|
-| GitHub Release v1.0 | ✅ Complete |
-| Tokenomics finalization | ✅ Complete |
-| Telegram community launch | ✅ Complete |
-| Twitter community building | 🟡 In Progress |
-| Grant applications (Solana, Superteam) | 🟡 In Progress |
+- community participation;
+- historical archives;
+- supporter recognition;
+- digital collectibles;
+- interactive experiences;
+- and future football-oriented Web3 systems.
 
-### 6.2 Phase 2: Growth (Q3 2026)
-
-| Milestone | Target |
-|-----------|--------|
-| DEX Listing (Raydium) | July 2026 |
-| Airdrop distribution | August 2026 |
-| CoinGecko listing | September 2026 |
-| 500+ token holders | September 2026 |
-| First community governance vote | September 2026 |
-
-### 6.3 Phase 3: Expansion (Q4 2026)
-
-| Milestone | Target |
-|-----------|--------|
-| CEX Listing (Tier 2) | October 2026 |
-| Season launch campaign | August 2026 |
-| 1,000+ token holders | December 2026 |
-| First charity distribution | December 2026 |
-| Partnership announcements | Q4 2026 |
+The project intends to explore new ways football communities can preserve and interact with club history in the digital era.
 
 ---
 
-## 7. Airdrop Program
+# Closing Statement
 
-### 7.1 Overview
+Football moments disappear with time.
 
-Early supporters will be rewarded with MUFS tokens for participating in community building activities.
+But history carried through generations becomes immortal.
 
-### 7.2 Eligibility
-
-- Follow @MUFSmart on Twitter
-- Join official Telegram channel
-- Complete Google Form registration
-- Valid Solana wallet address
-
-### 7.3 Symbolic Distribution
-
-- **148 MUFS** = 148 years of club history (1878-2026)
-- First 1,000-5,000 participants eligible
-- Vesting: 50% at TGE, 50% over 6 months
-
-### 7.4 Anti-Bot Measures
-
-- One entry per wallet address
-- Twitter + Telegram verification required
-- Manual review for large claims
-- Fake entries will be disqualified
-
+MUFS exists to preserve that history digitally.
 ---
 
-## 8. Security
+## Disclaimer
 
-### 8.1 What This Project Does NOT Have
+MUFS is an independent fan-created digital project.
 
-- No mainnet private keys in public repositories
-- No secret environment files
-- No sensitive credentials exposed
+The project is not officially affiliated with, endorsed by or connected to Manchester United Football Club or any related organizations.
 
-### 8.2 User Security Guidelines
-
-- **Never share your private keys with anyone**
-- Verify all contract addresses before interacting
-- Use hardware wallets for large holdings
-- Beware of impersonators in DMs
-
-### 8.3 Contract Security
-
-- SPL Token standard (audited by Solana)
-- No mint authority (fixed supply)
-- No freeze authority (community-controlled)
-
----
-
-## 9. Governance
-
-### 9.1 Community Decisions
-
-MUFS is designed to be community-governed. Key decisions will be made through:
-
-- Telegram community votes
-- Token holder snapshots
-- GitHub proposals
-
-### 9.2 Treasury Governance
-
-Community Treasury (10% of supply) will be managed through:
-
-- Community proposals
-- Token holder voting
-- Transparent reporting on GitHub
-
----
-
-## 10. Legal & Compliance
-
-### 10.1 Not Financial Advice
-
-MUFS tokens are NOT:
-- Securities
-- Investment contracts
-- Guaranteed returns
-
-This whitepaper is for informational purposes only.
-
-### 10.2 No Official Affiliation
-
-This project is NOT officially affiliated with:
-- Manchester United FC
-- Manchester United Limited
-- Premier League
-- Any governing football body
-
-### 10.3 License
-
-All documentation is licensed under CC BY-NC-SA 4.0.
-See LICENSE file for details.
-
----
-
-## 11. Contact & Support
-
-| Channel | Link |
-|---------|------|
-| Twitter | https://x.com/MUFSmart |
-| Telegram | https://t.me/MUFSmart |
-| GitHub | https://github.com/MUFSmart |
-| Website | https://mufs-smart-token.lovable.app |
-| Email | mufsmartoken@gmail.com |
-
----
-
-## 12. Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | January 2026 | Initial release |
-| 1.1 | March 2026 | Updated tokenomics (30% Fans, 17% Liquidity, 10% Reserve) |
-
----
-
-*Last Updated: March 2026*
+MUFS exists as a symbolic historical and philosophical framework created for digital community and cultural purposes.
