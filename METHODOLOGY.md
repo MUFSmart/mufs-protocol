@@ -180,3 +180,60 @@ Example interpretation:
 International tournaments with both league and knockout phases symbolically combine both structures:
 
 International Success = League Structure + Knockout Structure
+
+---
+
+## Why Every Match Matters
+
+Within the MUFS framework, football history is interpreted as a continuous journey rather than a collection of isolated trophies.
+
+Every official match contributes to the long-term narrative of the club:
+
+- victories;
+- defeats;
+- title races;
+- rebuilding periods;
+- European nights;
+- difficult seasons;
+- and moments of collective belief.
+
+This methodology symbolically reflects the idea that football history is built not only through final achievements, but through the continuous relationship between the team and its supporters across generations.
+
+Even unsuccessful seasons remain part of the historical identity of the club.
+
+Within the framework, supporter continuity itself carries historical significance.
+
+---
+
+## Limitations of the Framework
+
+The MUFS methodology is a symbolic and conceptual interpretation of football history.
+
+It should not be understood as:
+
+- a scientific measurement system;
+- a predictive sporting model;
+- financial analysis;
+- or an objective quantification of human emotion.
+
+Football culture, emotional connection and supporter experience cannot be fully measured mathematically.
+
+The framework instead provides a structured symbolic interpretation designed to preserve aspects of football history digitally.
+
+The calculations used within MUFS are intended to reflect historical continuity and supporter participation rather than establish universal objective truth.
+
+---
+
+## Closing Statement
+
+Football clubs are remembered through trophies and legendary moments.
+
+But they are also remembered through the people who lived every season beside them.
+
+Generations of supporters who witnessed Manchester United with their own eyes become part of that history together with the team itself.
+
+Football moments disappear with time.
+
+But history carried through generations becomes immortal.
+
+MUFS exists to symbolically preserve part of that historical continuity in digital form.
