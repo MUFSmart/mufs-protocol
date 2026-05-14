@@ -75,3 +75,108 @@ The term "energy" inside the MUFS ecosystem should be understood as a symbolic a
 It represents the emotional and historical connection created between supporters, the club and the events experienced throughout football history.
 
 This symbolic interpretation forms the foundation of the historical calculations used throughout the MUFS framework.
+
+---
+
+## Match Outcome Logic
+
+Football matches traditionally produce three possible outcomes:
+
+- victory;
+- draw;
+- defeat.
+
+Within the MUFS framework, these outcomes are symbolically interpreted as different levels of historical success connected to supporter experience and tournament progression.
+
+The methodology assigns different symbolic weighting to each result:
+
+- victory represents maximum progression;
+- draw represents partial progression;
+- defeat represents limited progression.
+
+This structure symbolically reflects the idea that every official match contributes to the historical journey of the club, even during unsuccessful periods.
+
+The framework does not attempt to objectively measure sporting value or emotional intensity.
+
+Instead, it provides a symbolic interpretation of how match outcomes contribute to long-term football history.
+
+---
+
+## Tournament Structures
+
+Different football competitions operate under different structural principles.
+
+The MUFS methodology symbolically adapts its calculations depending on the nature of the tournament.
+
+### League Competitions
+
+League tournaments represent long-term seasonal consistency.
+
+Within this structure, the methodology symbolically interprets final league position as a reflection of overall seasonal success across all official matches.
+
+The framework uses cumulative supporter attendance together with final league placement as part of the historical interpretation process.
+
+### Knockout Competitions
+
+Cup tournaments represent elimination-based progression where each individual match carries increased importance.
+
+Within this structure, match outcomes become central to the symbolic interpretation of tournament success.
+
+Advancing through rounds symbolically reflects historical progression toward a trophy.
+
+### Hybrid International Competitions
+
+Certain international tournaments combine group-stage structures with knockout rounds.
+
+Within the MUFS framework, these competitions symbolically combine elements of both league consistency and elimination progression.
+
+This allows the methodology to interpret international tournaments as multi-stage historical journeys.
+
+---
+
+## Historical Calculation Framework
+
+The MUFS methodology uses structured symbolic calculations connected to official football matches and tournament systems.
+
+At a conceptual level, the framework interprets:
+
+- supporter presence;
+- match outcomes;
+- tournament progression;
+- and seasonal achievement
+
+as interconnected parts of football history.
+
+Example symbolic structures used within the framework include:
+
+### League Structure
+
+Historical Success = Total Supporter Attendance ÷ Final League Position
+
+Example interpretation:
+
+(Historical Success) = (Σ Supporters Present) / (Final League Position)
+
+---
+
+### Knockout Structure
+
+Match Contribution = Supporter Attendance ÷ Match Outcome Weight
+
+Where:
+
+- Victory = 1
+- Draw = 2
+- Defeat = 3
+
+Example interpretation:
+
+(Match Contribution) = (Supporters Present) / (Outcome Weight)
+
+---
+
+### Hybrid Tournament Structure
+
+International tournaments with both league and knockout phases symbolically combine both structures:
+
+International Success = League Structure + Knockout Structure
